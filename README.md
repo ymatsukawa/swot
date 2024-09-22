@@ -1,6 +1,6 @@
 # SWOT analysis
 
-![swot](./docs/)
+![swot](./docs/swot.png)
 
 dev mode only
 
